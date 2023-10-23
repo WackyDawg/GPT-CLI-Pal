@@ -1,0 +1,14 @@
+{
+  "name": "gpt-cli-pal",
+  "version": "1.0.0",
+  "description": "A Node js CLI Chat GPT Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
