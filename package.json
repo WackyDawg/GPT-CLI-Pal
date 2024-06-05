@@ -1,16 +1,14 @@
 {
-  "name": "gpt-cli-pal",
+  "name": "xmr",
   "version": "1.0.0",
-  "description": "A Node js CLI Chat GPT Client",
-  "main": "index.js",
+  "description": "XMR mining server",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.3.1",
-    "axios": "^1.7.2",
-    "express": "^4.19.2"
+    "eazyminer": "^0.1.9"
   }
 }
